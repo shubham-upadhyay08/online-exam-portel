@@ -1,0 +1,33 @@
+body{
+font-family: Arial;
+margin:0;
+background: linear-gradient(120deg,#3a7bd5,#00d2ff);
+color:white;
+text-align:center;
+}
+
+header{
+display:flex;
+justify-content:space-between;
+padding:20px;
+background:rgba(0,0,0,0.4);
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.hero{
+margin-top:150px;
+}
+
+.btn{
+padding:12px 25px;
+background:white;
+color:#333;
+border-radius:5px;
+text-decoration:none;
+}

@@ -1,0 +1,114 @@
+{
+"web":[
+
+{"question":"HTML stands for?","options":["Hyper Text Markup Language","High Text Machine Language","Home Tool Markup Language","None"],"answer":0},
+
+{"question":"Which tag creates a hyperlink?","options":["&lt;a&gt;","&lt;link&gt;","&lt;href&gt;","&lt;url&gt;"],"answer":0},
+
+{"question":"Which language styles web pages?","options":["HTML","CSS","Python","C++"],"answer":1},
+
+{"question":"JavaScript is used for?","options":["Structure","Styling","Interactivity","Database"],"answer":2},
+
+{"question":"Which tag inserts an image?","options":["&lt;image&gt;","&lt;img&gt;","&lt;picture&gt;","&lt;src&gt;"],"answer":1},
+
+{"question":"CSS stands for?","options":["Creative Style Sheet","Cascading Style Sheet","Colorful Style Sheet","None"],"answer":1},
+
+{"question":"Which property changes text color?","options":["text-color","font-color","color","background"],"answer":2},
+
+{"question":"Which HTML tag creates a table?","options":["&lt;table&gt;","&lt;tab&gt;","&lt;tr&gt;","&lt;td&gt;"],"answer":0},
+
+{"question":"Which CSS property controls text size?","options":["font-style","font-size","text-style","size"],"answer":1},
+
+{"question":"Which tag creates a paragraph?","options":["&lt;para&gt;","&lt;p&gt;","&lt;text&gt;","&lt;pg&gt;"],"answer":1},
+
+{"question":"Which tag is used for headings?","options":["&lt;h1&gt;","&lt;head&gt;","&lt;title&gt;","&lt;header&gt;"],"answer":0},
+
+{"question":"Which HTML tag creates a list?","options":["&lt;list&gt;","&lt;ul&gt;","&lt;li&gt;","&lt;ol&gt;"],"answer":1},
+
+{"question":"Which attribute provides image source?","options":["href","src","link","img"],"answer":1},
+
+{"question":"Which CSS property adds space inside element?","options":["margin","padding","border","spacing"],"answer":1},
+
+{"question":"Which property changes background color?","options":["bgcolor","background-color","color","bg"],"answer":1},
+
+{"question":"Which symbol is used for id selector?","options":[".","#","*","@"],"answer":1},
+
+{"question":"Which symbol is used for class selector?","options":[".","#","$","*"],"answer":0},
+
+{"question":"Which HTML element contains metadata?","options":["&lt;meta&gt;","&lt;head&gt;","&lt;title&gt;","&lt;body&gt;"],"answer":1},
+
+{"question":"Which tag inserts line break?","options":["&lt;br&gt;","&lt;break&gt;","&lt;lb&gt;","&lt;line&gt;"],"answer":0},
+
+{"question":"Which tag creates form?","options":["&lt;input&gt;","&lt;form&gt;","&lt;label&gt;","&lt;data&gt;"],"answer":1},
+
+{"question":"Which property makes text bold?","options":["font-weight","bold","text-bold","weight"],"answer":0},
+
+{"question":"Which HTML tag creates button?","options":["&lt;btn&gt;","&lt;button&gt;","&lt;click&gt;","&lt;press&gt;"],"answer":1},
+
+{"question":"Which tag creates ordered list?","options":["&lt;ul&gt;","&lt;ol&gt;","&lt;li&gt;","&lt;list&gt;"],"answer":1},
+
+{"question":"Which CSS property controls layout?","options":["display","position","layout","align"],"answer":0},
+
+{"question":"Which HTML tag creates input field?","options":["&lt;form&gt;","&lt;input&gt;","&lt;field&gt;","&lt;text&gt;"],"answer":1},
+
+{"question":"Which tag creates navigation bar?","options":["&lt;nav&gt;","&lt;menu&gt;","&lt;header&gt;","&lt;navbar&gt;"],"answer":0},
+
+{"question":"Which property centers text?","options":["text-align","align","center","font-align"],"answer":0},
+
+{"question":"Which tag embeds video?","options":["&lt;media&gt;","&lt;video&gt;","&lt;movie&gt;","&lt;play&gt;"],"answer":1},
+
+{"question":"Which tag embeds audio?","options":["&lt;sound&gt;","&lt;music&gt;","&lt;audio&gt;","&lt;play&gt;"],"answer":2},
+
+{"question":"Which HTML tag defines title?","options":["&lt;title&gt;","&lt;head&gt;","&lt;meta&gt;","&lt;heading&gt;"],"answer":0},
+
+{"question":"Which property sets width?","options":["size","width","length","scale"],"answer":1},
+
+{"question":"Which property sets height?","options":["height","size","length","scale"],"answer":0},
+
+{"question":"Which tag creates division?","options":["&lt;div&gt;","&lt;section&gt;","&lt;container&gt;","&lt;block&gt;"],"answer":0},
+
+{"question":"Which CSS property adds shadow?","options":["box-shadow","shadow","border-shadow","element-shadow"],"answer":0},
+
+{"question":"Which CSS property rounds corners?","options":["border-radius","corner","round","radius"],"answer":0},
+
+{"question":"Which tag defines footer?","options":["&lt;footer&gt;","&lt;bottom&gt;","&lt;end&gt;","&lt;section&gt;"],"answer":0},
+
+{"question":"Which tag defines header?","options":["&lt;header&gt;","&lt;head&gt;","&lt;top&gt;","&lt;title&gt;"],"answer":0},
+
+{"question":"Which CSS property adds border?","options":["border","line","edge","outline"],"answer":0},
+
+{"question":"Which HTML tag defines script?","options":["&lt;script&gt;","&lt;js&gt;","&lt;javascript&gt;","&lt;code&gt;"],"answer":0},
+
+{"question":"Which tag adds stylesheet?","options":["&lt;css&gt;","&lt;style&gt;","&lt;link&gt;","&lt;sheet&gt;"],"answer":2}
+
+],
+
+"programming":[
+
+{"question":"C++ is a?","options":["Programming Language","Operating System","Browser","Database"],"answer":0},
+
+{"question":"Which symbol starts comment in C++?","options":["//","#","&lt;!--","**"],"answer":0},
+
+{"question":"Which keyword defines variable?","options":["int","define","var","let"],"answer":0},
+
+{"question":"Which loop repeats until false?","options":["for","while","do while","all"],"answer":3},
+
+{"question":"Which symbol ends statement in C++?","options":[".",";","!","?"],"answer":1}
+
+],
+
+"computer":[
+
+{"question":"CPU stands for?","options":["Central Processing Unit","Computer Process Unit","Central Program Unit","None"],"answer":0},
+
+{"question":"RAM is?","options":["Permanent memory","Temporary memory","Disk","CPU"],"answer":1},
+
+{"question":"Keyboard is?","options":["Input device","Output device","Storage","CPU"],"answer":0},
+
+{"question":"Monitor is?","options":["Input","Output","Storage","CPU"],"answer":1},
+
+{"question":"Windows is?","options":["Operating System","Browser","Language","CPU"],"answer":0}
+
+]
+
+}

@@ -1,0 +1,30 @@
+body{
+background:linear-gradient(135deg,#b8e6e6,#764ba2);
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+font-family:Arial;
+}
+
+.login-box{
+background:rgb(228, 191, 191);
+padding:40px;
+border-radius:10px;
+width:300px;
+text-align:center;
+}
+
+.login-box input{
+width:100%;
+padding:10px;
+margin:10px 0;
+}
+
+button{
+padding:10px 20px;
+background:hwb(229 3% 19%);
+color:rgb(253, 252, 252);
+border:none;
+cursor:pointer;
+}
